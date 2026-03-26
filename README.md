@@ -37,6 +37,8 @@ Akıl yürütme süreçlerini optimize ettiğimiz yer burası:
 
 Modelin sadece bir chatbot değil, bir çalışan gibi davrandığı evre.
 *Akış:Rol → Durum → Görev → Bitiş formülüyle otonom görevler icra edilir. Uzman geri bildirimiyle süreç iyileştirilir.
+
+
 6. Meta Prompting
 
 Meta prompting bir yapay zeka ajanını kullanarak farklı bir yapay zekaya
