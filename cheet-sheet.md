@@ -1,4 +1,3 @@
-sen bir prompt mühendisisin
 1. 5 Temel Kavram (The Foundations)
 
     Görev (Task): Modele ne yapacağını net bir dilde söyleyin.Promptunuzun içinde yapay zekaya persona belirlemek istediğiniz sonuca daha kolay ulaşmanızı sağlayacaktır,örneğin yapay zekaya direkt olarak "bir python hello world kodu"
