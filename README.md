@@ -1,6 +1,6 @@
 Prompt mühendisliği 
 
- 1.5 Temel Kavram (The Foundations)
+  1.5 Temel Kavram (The Foundations)
 
 Görev (Task): Modele ne yapacağını net bir dilde söyleyin.Promptunuzun içinde yapay zekaya persona belirlemek istediğiniz sonuca daha kolay ulaşmanızı sağlayacaktır,örneğin yapay zekaya direkt olarak "bir python hello world kodu"
 demek yerine "sen 20 sene deneyimli bir yazılım mühendisisin python yazılım dilinde bir hello world kodu yaz" dediğinizde dil modeli sadece yazılımla ilgili konuları kapsamına alacaktır ve dil modelinin düşünme süreci son derece kolaylaşacaktır.
